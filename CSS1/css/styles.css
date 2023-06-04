@@ -1,0 +1,35 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #E6E6E6;
+}
+
+div {
+    display: grid;
+    place-items: center;
+    /* margin: auto; */
+}
+
+h1, h2 {
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    background-color: #005677;
+}
+
+li {
+    font-size: 15px;
+}
+
+.fechas {
+    list-style: none;
+}
